@@ -1,8 +1,16 @@
 .title {
   margin-top: $margin-title;
 
-  color: $color-aqua;
+  /* font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px; */
+
   font: $font-title;
+
+  color: $color-aqua;
+  background-color: white;
   text-transform: uppercase;
   text-align: center;
 }
